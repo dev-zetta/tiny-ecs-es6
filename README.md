@@ -1,4 +1,4 @@
-# TinyECS
+# TinyECS (ES6)
 
 NOTE: Work in progress
 
