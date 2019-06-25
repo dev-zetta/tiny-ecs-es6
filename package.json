@@ -1,0 +1,40 @@
+{
+  "name": "tiny-ecs-es6",
+  "version": "4.0.0",
+  "description": "A mean lean Entity-Component-System library.",
+  "keywords": [
+    "entity",
+    "component",
+    "system",
+    "entities",
+    "game"
+  ],
+  "author": {
+    "name": "Brandon Valosek",
+    "email": "bvalosek@gmail.com",
+    "url": ""
+  },
+  "contributors": [
+    {
+      "name": "Gabriel Max",
+       "email": "dev-zetta@gmail.com",
+       "url": ""
+     }
+   ],
+  "directories": {
+
+  },
+  "scripts": {
+
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dev-zetta/tiny-ecs-es6.git"
+  },
+  "dependencies": {
+  }
+}
